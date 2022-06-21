@@ -1,27 +1,29 @@
-# App
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://seeklogo.com/images/A/angular-logo-6EB930C68B-seeklogo.com.png" width="350" alt="Nest Logo" /></a>
+</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
+## Descrição
+Aplicação desenvolvida como parte do Trabalho Prático na disciplina de Banco de Dados II do curso de graduação em Ciência da Computação da Universidade Federal de Itajubá no 1º semestre de 2022. <br>
+Aplicação Angular que consome dados de uma API Rest e carrega os dados em um relatório AD-HOC.
 
-## Development server
+## Grupo
+André Felipe Magalhães Silva - 2017020218 <br>
+Anna Luiza Pereira Rosa - 2019004090 <br>
+Daniel Henrique Ferreira Carvalho - 2019005426 <br>
+José Luiz Corrêa Junior - 2017020933 <br>
+Tiago Rafael Amaral Reis - 2021021338 <br><br>
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Profª Vanessa Cristina Oliveira de Souza
 
-## Code scaffolding
+## Pré-requisitos
+> Configurações utilizadas: <br><br>
+> &bull; Node.js ≥ v16.13.0 <br>
+> &bull; npm ≥ v8.1.0 <br> 
+> &bull; Angular CLI ≥ v13.0.4 <br>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Rodando a aplicação localmente
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+```bash
+# desenvolvimento
+$ ng serve
+```
